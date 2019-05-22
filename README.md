@@ -1,4 +1,4 @@
-# my-project
+# employee-vue-web-app
 
 ## Project setup
 ```
